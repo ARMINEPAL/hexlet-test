@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ARMINEPAL/hexlet-test#readme",
+  "bugs": {
+    "url": "https://github.com/ARMINEPAL/hexlet-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARMINEPAL/hexlet-test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
